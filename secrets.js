@@ -1,0 +1,1 @@
+const WORKER_URL = 'https://weathered-leaf-5006.mcampb9.workers.dev/';
